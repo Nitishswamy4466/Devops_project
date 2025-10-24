@@ -1,1 +1,7 @@
-"Login feature implementation" 
+ 
+Login Feature Implementation
+
+- Created a simple login system.
+- Validates username and password.
+- Displays success or error message.
+- Will be merged into dev after review.
